@@ -1,5 +1,7 @@
-<template>
-  <Calculator/>
+<template id="main">
+
+    <Calculator/>
+ 
 </template>
 
 <script>
@@ -13,7 +15,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 body{
   background:#31475e;
 }
